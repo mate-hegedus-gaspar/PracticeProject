@@ -1,2 +1,1 @@
-# Finalify
-Finalify - Web app project for LU final assessment
+# Practice project Finalify
